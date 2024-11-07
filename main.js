@@ -38,6 +38,12 @@ let presets = {
 			async: true
 		}
 	},
+	win10: {
+		fda: {
+			url: "img/Win10_22H2_English_x64v1.iso",
+			async: true
+		}
+	},
 	linux2_6_34: {
 		cdrom: {
 			url: "img/linux2.6.34.iso",
